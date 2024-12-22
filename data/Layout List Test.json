@@ -1,0 +1,61 @@
+{
+	"id": 0,
+	"name": "Layout List Test",
+	"tags": [
+		"Joe Mama",
+		"hai hexy",
+		"free soup",
+		"AMERICA! FUCK YEAH!",
+		"i eat pizza"
+	],
+	"author": "yo mama",
+	"creators": [],
+	"verifier": "zhenny wenny",
+	"verification": "https://youtu.be/Rxb5iRPh_Gw?si=eIJKgcoL_iziW5vD",
+	"percentToQualify": 69,
+	"password": "woah i like soup",
+	"records": [
+		{
+			"user": "hexy",
+			"link": "https://www.youtube.com/watch?v=a7I_8dltxlc",
+			"percent": 483,
+			"hz": 69
+		},
+		{
+			"user": "noah",
+			"link": "https://youtu.be/3xOeDCy6kbM",
+			"percent": 12,
+			"hz": 21
+		},
+		{
+			"user": "mr kubnix",
+			"link": "https://youtu.be/uDxmoPZJdvI?feature=shared",
+			"percent": 130,
+			"hz": 420
+		},
+		{
+			"user": "free robux",
+			"link": "https://www.youtube.com/watch?v=KFcL4KMTgns",
+			"percent": 100,
+			"hz": boblox
+		},
+		{
+			"user": "Joseph Stalin",
+			"link": "https://youtu.be/EHt3JMaEGzU?si=fvW96csrtVBnh3K5",
+			"percent": 9999,
+			"hz": Communism
+		},
+		{
+			"user": "Napoleon Bonaparte",
+			"link": "https://www.youtube.com/watch?v=UTFtUK07zhA",
+			"percent": 1801,
+			"hz": 1815
+		},
+		{
+			"user": "New Super Mario Bros. Wii",
+			"link": "https://youtu.be/AEiYIQQKEto",
+			"percent": 101,
+			"hz": CBF Detected, loser!
+		}
+	]
+}
