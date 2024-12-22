@@ -1,0 +1,29 @@
+{
+	"id": 1699,
+	"name": "Hexy is dead",
+	"author": "Hex",
+	"tags"
+		"WhirlGDPS CL",
+	],
+	"creators": [
+		"Hex"
+	],
+	"verifier": "Hex",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": Furrious",
+			"link": "https://www.youtube.com/watch?v=KPr2VAfzd0Q",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Skoe",
+			"link": "https://www.youtube.com/watch?v=bOCV4Ixr2Xs&feature=youtu.be",
+			"percent": 100,
+			"hz": 999
+		}
+	]
+}
